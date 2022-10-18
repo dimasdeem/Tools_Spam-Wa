@@ -30,9 +30,6 @@ biru="\033[1;96m"
 os.system("clear")
 autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel HerDim.Net")
 time.sleep(3)
-os.system("xdg-open https://youtube.com/")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udsh Subscribe moga berkah")
-time.sleep(3)
 os.system("clear")
 autoketik(f"""
 {biru}╔═╗{W}┌─┐┌─┐┌┬┐  {biru}╦ ╦{W}┬ ┬┌─┐┌┬┐┌─┐{merah}┌─┐{kuning}┌─┐{Hijau}┌─┐
